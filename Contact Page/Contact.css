@@ -1,0 +1,120 @@
+h1{
+    text-align: left;
+    color:rgb(64, 214, 219)
+}
+
+h2{
+    color: rgb(64, 214, 219);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(64, 214, 219);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+h4{
+    color: rgb(64, 214, 219);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(64, 214, 219);
+    font-size: 20px;
+    font-weight: 1000;
+    text-align: center;
+    margin-left: 10%;
+    border-bottom: 2px solid rgb(176, 22, 190);
+    width: 80%;
+    padding-bottom: 20px;
+    border: 3px solid rgb(176, 22, 190);
+    text-decoration: wavy;
+}
+
+body{
+    background-color: white;
+}
+
+.sendInformation{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: all-scroll;
+    opacity: 8;
+    color: white;
+    background-color:rgb(176, 22, 190);
+    position:absolute; 
+    right: 550px;
+}
+
+.fullInformation{
+    padding: 10px;
+    display:inline-flex;
+    border-bottom:3px solid rgb(176, 22, 190);
+    width: 80%;
+    border: 3px solid rgb(176, 22, 190);
+}
+
+
+.about{
+    color:rgb(64, 214, 219);
+    background-color: white;
+    text-align: center;
+    border: none;
+}
+.mission{
+    color: rgb(64, 214, 219);
+    background-color: white;
+    text-align: center;
+    border: none;
+    font-style: italic;
+}
+.contact{
+    color:rgb(64, 214, 219);
+    background-color: white;
+    text-align: center;
+    border: none;
+}
+
+.goal{
+    color:rgb(64, 214, 219);
+    background-color: white;
+    text-align: center;
+    border: none;
+    font-style: italic;
+}
+
+.infoSection{
+    color:rgb(64, 214, 219);
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.message{
+    padding: 30px;
+    display:inline-flex;
+    border-bottom:3px solid rgb(176, 22, 190);
+    width: 80%;
+    border: 3px solid rgb(176, 22, 190);
+}
+
+.top{
+    position: absolute;
+        top: 0px;
+        right: 0px;
+}
