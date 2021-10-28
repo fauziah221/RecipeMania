@@ -1,0 +1,72 @@
+h1{
+    text-align: left;
+    color:rgb(0, 225, 255)
+}
+
+h2{
+    color: rgb(0, 225, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+h3 {
+    color: rgb(0, 225, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 225, 255);
+    font-size: 20px;
+    font-weight: 1000;
+    text-align: center;
+    margin-left: 10%;
+    text-transform: uppercase;
+    border-bottom: 2px solid rgb(176, 22, 190);
+    width: 80%;
+    padding-bottom: 20px;
+    border: 3px solid rgb(176, 22, 190);
+}
+
+body{
+    background-color: black;
+}
+
+.sendInformation{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: all-scroll;
+    opacity: 8;
+    color: white;
+    background-color:rgb(176, 22, 190);
+    position:fixed; 
+    right: 550px;
+}
+
+.fullInformation{
+    padding: 10px;
+    display:inline-flex;
+    border-bottom:3px solid rgb(176, 22, 190);
+    width: 80%;
+    border: 3px solid rgb(176, 22, 190);
+}
+
+
+.about{
+    color:rgb(0, 225, 255);
+    background-color:black;
+    text-align: center;
+    border: none;
+}
+
+.infoSection{
+    color:rgb(0, 225, 255);
+    text-align: center;
+}
